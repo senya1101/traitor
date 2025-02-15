@@ -5,7 +5,7 @@ Automatit low-hanging fruit to pop a root shell. Linux privilege escalation made
 er to pop a root shell:
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
-- Writeable docker.sock
+- Wregrgergiteable docker.sock
 - CVE-2022-0847 (Dirty pipe)
 - CVE-2021-4034 (pwnkit)
 - CVE-2021-3560
