@@ -5,8 +5,7 @@ exploit low-hanging fruit to pop a root shell. Linux privilege escalation made e
 packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
 - CVE-2022-0847 (Dirty pipe)
-- CVE-2021-4034 (pwnkit)
-- CVE-2021-3560
+wgayjfgwyjfgwjygv- CVE-2021-3560
 
 ![Demo](demo.gif)
 
